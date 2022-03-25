@@ -7,9 +7,9 @@
 - 📫 How to reach me: Harshilchoudhary92@gmail.com
 - 😄 Pronouns:He/Him
 
-[![Harshil's github stats](https://github-readme-stats.vercel.app/api?username=harshil-94&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-94)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Harshil's github stats](https://github-readme-stats.vercel.app/api?username=harshil-94&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-94)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 </br>
@@ -23,7 +23,7 @@
 </br>
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arun Jangra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arun89-crypto&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harshil-94's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshil-94&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 </br>
@@ -40,6 +40,7 @@
 <br/>
 <br/>
 ### My Links
+<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/harshil-choudhary-1134111b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshil-choudhary-1134111b8/" height="30" width="40" /></a>
 <a href="https://www.freecodecamp.org/Nightwolf94" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqOgb52FLzPvo0nFrXUw3bJzL1bl-RCqXGbvKsKwpXxbE2GcWwFLV-AXaWZGtX3zC_vL8&usqp=CAU" alt="https://www.codechef.com/users/arunjngra89" height="30" width="40" /></a>
@@ -49,6 +50,7 @@
 <br/>
 <br/>
 ### Views and Followers
+<br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Harshil-94">
 </a>
