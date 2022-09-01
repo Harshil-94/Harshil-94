@@ -1,8 +1,8 @@
 ### Hi there ,I'm Harshil Choudhary 😋
 
 
-- 🔭 I’m currently working on frontend development
-- 🌱 I’m currently learning HTML,CSS and react.js
+- 🔭 I’m currently working on Machine learning 
+- 🌱 I’m currently learning Artifical Neural Network
 - 💬 Ask me about anything , I can Answer alot of computer stuff
 - 📫 How to reach me: Harshilchoudhary92@gmail.com
 - 😄 Pronouns:He/Him
